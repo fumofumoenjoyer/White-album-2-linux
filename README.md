@@ -1,5 +1,6 @@
 # White-album-2-linux
 
+I copy-pasted this from a reddit comment in r/visualnovels for safekeeping, i dont remember the post so if someone knows let me know so i can give credit, dropbox files are also hosted in this repo if the dropbox link goes down.
 
 UPDATED: I managed to get it working fully with video and everything.
 Took me a while, but for the best results, use Lutris but there's a specific Wine version you need to use.
@@ -12,4 +13,4 @@ When you start a fresh New Game, you'll get a black screen, just click and it sh
 
 Lastly, to get the best battery you wanna lock the framerate to 30fps. If you're unable to do this via the Deck's settings, in Lutris settings for the game, go to System Options > Environmental Variables, and put in the key MANGOHUD_CONFIG, and a value of fps_limit=30, then below in command prefix put in mangohud. This is normally how I lock framerates for Lutris games 👍 enjoy the wonderful game
 
-also delete d3d9.dll from game directory
+if it still doesnt work delete d3d9.dll from game directory and try again (this file is from the translation patch and deleting it will not show music subtitles in some scenes for example the campus festival)
