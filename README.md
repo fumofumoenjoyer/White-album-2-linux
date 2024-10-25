@@ -15,4 +15,4 @@ When you start a fresh New Game, you'll get a black screen, just click and it sh
 
 Lastly, to get the best battery you wanna lock the framerate to 30fps. If you're unable to do this via the Deck's settings, in Lutris settings for the game, go to System Options > Environmental Variables, and put in the key MANGOHUD_CONFIG, and a value of fps_limit=30, then below in command prefix put in mangohud. This is normally how I lock framerates for Lutris games 👍 enjoy the wonderful game
 
-if it still doesnt work delete d3d9.dll from game directory and try again (this file is from the translation patch and deleting it will not show music subtitles in some scenes for example the campus festival)
+if it still doesnt work (for example it crashing after the leaf logo shows up or black unresponsive screen after clicking new game) delete d3d9.dll from game directory and try again (this file is from the translation patch and deleting it will not show music subtitles in some scenes for example the campus festival)
