@@ -1,6 +1,8 @@
 # White-album-2-linux
 
-I copy-pasted this from a reddit comment in r/visualnovels for safekeeping, i dont remember the post so if someone knows let me know so i can give credit, dropbox files are also hosted in this repo if the dropbox link goes down.
+I copy-pasted this from a reddit comment in r/visualnovels for safekeeping, but the last line i did write myself from the TL's advice to remove the file if it doesnt work, i dont remember the post so if someone knows let me know so i can give credit, dropbox files are also hosted in this repo if the dropbox link goes down.
+
+[Found the original comment](https://www.reddit.com/r/visualnovels/comments/1al82lo/comment/kphr1f9/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
 UPDATED: I managed to get it working fully with video and everything.
 Took me a while, but for the best results, use Lutris but there's a specific Wine version you need to use.
